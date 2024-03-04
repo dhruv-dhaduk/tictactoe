@@ -1,3 +1,6 @@
+import circle from "../res/svgs/circle.svg";
+import cross from "../res/svgs/cross.svg";
+
 function Board() {
 
     return (
@@ -6,7 +9,7 @@ function Board() {
             <div className="max-w-full max-h-full m-auto aspect-square bg-white bg-opacity-10 backdrop-blur-md border-2 border-white border-opacity-25 rounded-2xl"> 
                 
             </div>
-            
+
         </div>
     );
 
