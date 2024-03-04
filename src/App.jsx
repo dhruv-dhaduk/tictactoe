@@ -7,7 +7,12 @@ function App() {
             <div className="sm:flex-1">
                 <Board />
             </div>
-            <p className="text-red-700 sm:flex-1">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi numquam neque accusamus. Vitae possimus modi enim culpa animi placeat dolorum inventore distinctio? Perspiciatis sapiente voluptatem repellat beatae odio eos porro consequatur numquam, laboriosam labore, quasi fugit! Possimus enim, voluptate praesentium accusantium consectetur quis soluta cupiditate necessitatibus error, numquam reiciendis vitae aspernatur, architecto dolorem quod! Hic obcaecati a excepturi vero eius deserunt recusandae rem, nisi reiciendis, non earum consectetur dolorum? Consectetur aut nostrum minima, laudantium expedita ipsum ullam rem fugiat magnam reprehenderit, quae necessitatibus distinctio error quasi aliquam vero saepe, quisquam iusto. Quidem consequatur mollitia eos sed error culpa, est voluptatem!</p>
+
+            <div className="p-5 sm:flex-1">
+                <p className="text-red-700">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi numquam neque accusamus. Vitae possimus modi enim culpa animi placeat dolorum inventore distinctio? Perspiciatis sapiente voluptatem repellat beatae odio eos porro consequatur numquam, laboriosam labore, quasi fugit! Possimus enim, voluptate praesentium accusantium consectetur quis soluta cupiditate necessitatibus error, numquam reiciendis vitae aspernatur, architecto dolorem quod! Hic obcaecati a excepturi vero eius deserunt recusandae rem, nisi reiciendis, non earum consectetur dolorum? Consectetur aut nostrum minima, laudantium expedita ipsum ullam rem fugiat magnam reprehenderit, quae necessitatibus distinctio error quasi aliquam vero saepe, quisquam iusto. Quidem consequatur mollitia eos sed error culpa, est voluptatem!</p>
+
+            </div>
+
         </div>
 
     );
